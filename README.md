@@ -1,8 +1,17 @@
-# My first website
-#### This is my first website that i have been practising on the basics of html,git hub and commandline
+# My favorite
+#### This is a website  cotaining a lit of my favorite things
 
 ### List of contributors :
 * Thomas khaemba
-* Shem 
+
 ## The main purpose of  this site
-#### To practice on the basics of html and github commands the site is available if you need it just fork
+#### To practice on the basics of html and github commands 
+
+## How to access it
+#### you can simply fork  and clone the projects 
+
+## Technologies used
+* HTML
+* CSS
+## Lincense
+#### 
