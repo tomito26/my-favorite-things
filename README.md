@@ -15,4 +15,5 @@ You can simply fork  and clone it
 * CSS
 ## Lincense
 Copyright (c) 2020 Thomas Khaemba
-Licensed under[MIT License](LINCENSE)
+
+Licensed under [MIT License](LINCENSE)
